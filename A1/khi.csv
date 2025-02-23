@@ -1,0 +1,58 @@
+,ID,NAME,DESIGNATION,HECAPPROVEDSUPERVISOR,HIGHESTEDUCATION,EMAIL,DEPARTMENT,EXT,IMAGE_URL
+0,,"Prof. Dr. Zulfiqar Ali Memon , PhD",Professor & Director HEC Approved PhD Supervisor,False,,zulfiqar.memon@nu.edu.pk,FAST School of Computing,213,https://khi.nu.edu.pk/wp-content/uploads/2023/01/Dr.-Zulfiqar-New-Image.jpg
+1,,"Dr. Jawwad A. Shamsi, PhD",Professor & Dean HEC approved PhD Supervisor,True,,jawwad.shamsi@nu.edu.pk,FAST School of Computing,218,https://khi.nu.edu.pk/wp-content/uploads/2023/01/Dr.-Jawwad-A-Shamsi-Professor.png
+2,,"Dr. Ghufran Ahmed, PhD",Professor & HoD Computer Science HEC approved PhD Supervisor,True,,ghufran.ahmed@nu.edu.pk,FAST School of Computing,233,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-Ghufran-Ahmed-Associate-Professor.jpg
+3,,"Dr. Nouman Durrani, PhD",Associate Professor HEC approved PhD Supervisor,True,,muhammad.nouman@nu.edu.pk,FAST School of Computing,133,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-M-Nouman-Durrani-Assistant-Professor.jpg
+4,,"Dr. Fahad Sherwani , PhD",Assistant Professor HEC approved PhD Supervisor,True,,fahad.sherwani@nu.edu.pk,FAST School of Computing,219,https://khi.nu.edu.pk/wp-content/uploads/2023/03/Mr.-Fahad-Sherwani-Assistant-Professor.jpg
+5,,"Dr. Nadeem Kafi, PhD",Assistant Professor,False,,nadeem.kafi@nu.edu.pk,FAST School of Computing,131,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-Nadeem-Kafi-Khan-Assistant-Professor-1.jpg
+6,,"Dr. Farrukh Hasan Syed , PhD",Assistant Professor HEC approved PhD Supervisor,True,,farrukh.hasan@nu.edu.pk,FAST School of Computing,132,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr.-Farrukh-Hassan-Syed-Assistant-Professor.jpg
+7,,"Dr. Farrukh Salim Shaikh, PhD",Assistant Professor,False,,farrukh.salim@nu.edu.pk,FAST School of Computing,167,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr-Farrukh-Salim-Shaikh-Assistant-Professor-CS.jpg
+8,,"Dr. Nausheen Shoaib , PhD",Assistant Professor,False,,nausheen.shoaib@nu.edu.pk,FAST School of Computing,280,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr-Nausheen-Shoaib-Assistant-Professor.jpg
+9,,"Dr. Aqsa Aslam , PhD",Assistant Professor,False,,aqsa.aslam@nu.edu.pk,FAST School of Computing,220,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr.-Aqsa-Aslam-Assistant-Professor.jpg
+10,,"Dr. Nasir Uddin , PhD",Assistant Professor,False,,nasir.uddin@nu.edu.pk,FAST School of Computing,164,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr-Nasiruddin.png
+11,,"Dr. Anam Qureshi , PhD",Assistant Professor,False,,anam.qureshi@nu.edu.pk,FAST School of Computing,231,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Ms.-Anam-Qureshi.png
+12,,Dr. Waheed Ahmed Abro (On Leave),Assistant Professor,False,,waheedahmed@nu.edu.pk,FAST School of Computing,-,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Mr.-Waheed-Ahmed-Lecturer-.jpg
+13,,Engr.  Abdul Rahman,Assistant Professor,False,,abdulrahman@nu.edu.pk,FAST School of Computing,236,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Abdul-Rehman-1.png
+14,,Mr. Muhammad Jamil,Assistant Professor,False,,m.jamil@nu.edu.pk,FAST School of Computing,245,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Jamil-Usmani-Assistant-Professor-CS.jpg
+15,,Ms. Rabia Tabassum,Assistant Professor,False,,rabia.tabassum@nu.edu.pk,FAST School of Computing,235,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Rabia-Tabassum-Assistant-Professor-CS.jpg
+16,,Mr. Syed Kashan Hussain Naqvi,Assistant Professor,False,,kashan.hussain@nu.edu.pk,FAST School of Computing,283,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Syed-Kashan-Hussain-Naqvi-Assistant-Professor-CS.jpg
+17,,Mr. Ubaid Aftab,Assistant Professor (Adjunct),False,,ubaid.aftab@nu.edu.pk,FAST School of Computing,225,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Ubaid-Aftab-Chawla-Adjunct-Assistant-Professor-.jpg
+18,,Ms. Shahar Bano Husnine,Lecturer,False,,shahar.bano@nu.edu.pk,FAST School of Computing,220,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Shaharbano-Lecturer-CS.jpg
+19,,Mr. Shoaib Rauf,Lecturer,False,,shoaib.rauf@nu.edu.pk,FAST School of Computing,258,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Shoaib-Rauf-Lecturer-CS.jpg
+20,,Mr. Basit Ali,Lecturer,False,,basit.jasani@nu.edu.pk,FAST School of Computing,130,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Basit-Ali-Lecturer-CS.jpg
+21,,Mr. Syed Zain Ul Hassan,Lecturer,False,,zain.hassan@nu.edu.pk,FAST School of Computing,197,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Syed-Zain-Ul-Hassan-Lecturer.jpg
+22,,Ms. Sobia Iftikhar,Lecturer,False,,sobia.iftikhar@nu.edu.pk,FAST School of Computing,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Sobia-Iftikhar-Lecturer-CS.jpg
+23,,Ms. Anaum Hamid,Lecturer,False,,anaum.hamid@nu.edu.pk,FAST School of Computing,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Anaum-Hamid-Lecturer.jpg
+24,,Ms. Nida Munawar,Lecturer,False,,nida.munawwar@nu.edu.pk,FAST School of Computing,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Nida-Munawar-Lecturer-CS.jpg
+25,,Ms. Sumaiyah,Lecturer,False,,sumaiyah@nu.edu.pk,FAST School of Computing,266,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Sumaiyah-Zahid-Lecturer-CS.jpg
+26,,Ms. Mubashra Fayyaz,Lecturer,False,,mubashra.fayyaz@nu.edu.pk,FAST School of Computing,172,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Mubashra-Fayyaz-Lecturer-CS.jpg
+27,,Ms. Hajra Ahmed,Lecturer,False,,hajra.ahmed@nu.edu.pk,FAST School of Computing,142,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Hajra-Ahmed-Lecturer-CS.jpg
+28,,Mr. Aashir Mahboob,Lecturer,False,,aashir.mahboob@nu.edu.pk,FAST School of Computing,113,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Aashir-Mahboob-Lecturer.jpg
+29,,Ms. Abeeha Sattar,Lecturer,False,,abeeha.sattar@nu.edu.pk,FAST School of Computing,160,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Abeeha-Sattar-Lecturer-CS.jpg
+30,,Ms. Bakhtawer,Lecturer,False,,bakhtawar.abbasi@nu.edu.pk,FAST School of Computing,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Bakhtawer-Lecturer-CS.jpg
+31,,Ms. Javeria Farooq,Lecturer,False,,javeria.farooq@nu.edu.pk,FAST School of Computing,220,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Javeria-Farooq-Lecturer-.jpg
+32,,Ms. Mafaza Mohi (ON LEAVE),Lecturer,False,,mafaza.mohi@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Mafaza-Mohi-Lecturer-CS-1.jpg
+33,,Ms. Fizza Aqeel,Lecturer,False,,fizza.aqeel@nu.edu.pk,FAST School of Computing,153,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Fizza-Aqeel-Instructor.jpg
+34,,Ms. Atiya Jokhio,Lecturer,False,,atiya.jokhiyo@nu.edu.pk,FAST School of Computing,399,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Atiya-Jokhio-Lecturer.jpg
+35,,Ms. Romasha Khurshid,Lecturer,False,,romasha.khurshid@nu.edu.pk,FAST School of Computing,-,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Romasha-Khurshid-Lecturer.jpg
+36,,Mr. Musawar Ali (On Leave),Lecturer,False,,musawar.ali@nu.edu.pk,FAST School of Computing,-,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Musawar-Ali-Jhatial-Lecturer.jpg
+37,,Ms. Noureen Fatima (ON LEAVE),Lecturer,False,,nida.munawwar@nu.edu.pk,FAST School of Computing,160,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Noureen-Fatima-Lecturer-CS.jpg
+38,,Ms. Yusra Kaleem,Lecturer,False,,yusra.kaleem@nu.edu.pk,FAST School of Computing,280,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Yusra-Kaleem-Lecturer-CS.jpg
+39,,Mr. Syed Faisal Ali,Lecturer,False,,faisal.ali@nu.edu.pk,FAST School of Computing,159,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Syed-Faisal-Ali.png
+40,,Ms. Zain Noreen,Lecturer,False,,zain.noreen@nu.edu.pk,FAST School of Computing,-,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Zain-Noreen-6825.jpg
+41,,Mr. Nauraiz Subhan,Lecturer,False,,nauraiz.subhan@nu.edu.pk,FAST School of Computing,159,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Nauraiz-Subhan.jpg
+42,,Mr. Muhammad Kashif,Lecturer,False,,kashif.shaikh@nu.edu.pk,FAST School of Computing,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Kashif.jpg
+43,,Mr. Muhammad Monis,Lab Instructor,False,,muhammad.monis@nu.edu.pk,FAST School of Computing,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Monis-Instructor-CS.jpg
+44,,Mr. Shaheer Ahmad Khan,Lecturer,False,,shaheer.khan@nu.edu.pk,FAST School of Computing,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shaheer-Ahmad-Khan-Instructor-CS.jpg
+45,,Ms. Zainab Asif Jawed,Lab Instructor,False,,zainab.asif@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Zainab-Asif-Jawed-Instructor-CS-.jpg
+46,,Ms. Syeda Mahnoor Javed,Lab Instructor,False,,mahnoor.javed@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Syeda-mahnoor.png
+47,,Mr. Shafique Rahman,Lab Instructor,False,,shafique.rehman@nu.edu.pk,FAST School of Computing,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shafique-Rehman-Instructor-CS.jpg
+48,,Ms. Fatima Gado,Instructor,False,,fatima.gado@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2024/04/fatima-gado.png
+49,,Ms. Hafiza Bushra Sattar,Instructor,False,,bushra.sattar@nu.edu.pk,FAST School of Computing,237,https://khi.nu.edu.pk/wp-content/uploads/2024/04/Ms.-Bushra-Sattar-6806.jpg
+50,,Mr. Ubaidullah,Lecturer,False,,ubaid.ullah.v@nu.edu.pk,FAST School of Computing,-,https://khi.nu.edu.pk/wp-content/uploads/2024/04/Ubaidullah.png
+51,,Ms Ramsha Iqbal,Instructor,False,,ramsha.iqbal@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Ramsha-Iqbal-Final.png
+52,,Mr. Ghulam Qadir Bhurgari,Instructor,False,,ghulam.qadir@nu.edu.pk,FAST School of Computing,284,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Ghulam-Qadir-Bhugari.png
+53,,Mr. Mubashir,Instructor,False,,mubashir@nu.edu.pk,FAST School of Computing,284,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Mubashar-Final.png
+54,,Ms. Khadija tul Kubra,Instructor,False,,khadija@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Khadija-Tul-Kubra.png
+55,,Ms. Filza Akhlaq (On Leave),Instructor,False,,filza.akhlaq@nu.edu.pk,FAST School of Computing,132,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Filza-Ikhlaque-Final.png
+56,,Ms. Syeda Tehreem Gilani,Instructor,False,,syeda.tehreem@nu.edu.pk,FAST School of Computing,293,https://khi.nu.edu.pk/wp-content/uploads/2024/10/Syeda-Tehreem-Gilani-Final.png
